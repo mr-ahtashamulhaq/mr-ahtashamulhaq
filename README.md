@@ -1,8 +1,10 @@
-# Hi there, I'm Ahtasham Ul Haq! 👋
+# I'm Ahtasham Ul Haq!
 
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Problem+Solver;Python+Developer)
+
+---
 
 </div>
 
@@ -18,25 +20,7 @@
 - ♟️ Enjoy playing **chess** and **reading books** to stay focused and think clearly
 - 📫 Reach me at **mr.ahtashamulhaq@gmail.com**
 
-## 🌐 Connect with Me
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mr-ahtasham-ul-haq/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</a>
-<img width="20" />
-<a href="https://leetcode.com/u/mr-ahtashamulhaq/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="52" />
-</a>
-<img width="20" />
-<a href="mailto:mr.ahtashamulhaq@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</a>
-<img width="20" />
-<a href="https://www.ahtashamulhaq.site/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="52" height="40" alt="portfolio website" />
-</a>
 
 </div>
 
@@ -119,9 +103,8 @@
 </a>
 <img width="20" />
 <a href="https://www.ahtashamulhaq.site/" target="_blank">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/globe.svg" width="52" height="40" alt="portfolio website" style="filter: invert(1);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="52" height="40" alt="portfolio website" />
 </a>
-
 </div>
 
 ---
