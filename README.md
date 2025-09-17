@@ -1,19 +1,44 @@
 # Hi there, I'm Ahtasham Ul Haq! 👋
 
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Problem+Solver;Python+Developer)
+
+</div>
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🤖 AI Engineer passionate about machine learning and deep learning
-- 🔭 Currently working on **AI/ML Projects and Python Development**
-- 🌱 Exploring **Advanced AI Algorithms & Cloud Technologies**
-- 👯 Looking to collaborate on **Open Source AI Projects**
-- 💬 Ask me about **Python, Machine Learning, Data Science & AI**
+- 🎓 Third-semester BS Computer Science student at **University of Lahore**
+- 🐍 Strong skills in **Python** with solid understanding of **Data Structures & Algorithms**
+- ☁️ Experience with **AWS and Azure** cloud computing platforms
+- 🤖 Currently learning **Artificial Intelligence** and exploring ML/DL concepts
+- 💪 Solved **300+ problems** on LeetCode and GeeksforGeeks
+- 🧩 Excellent **problem-solving**, **communication**, and **teamwork** abilities
+- 📚 Passionate about **continuous learning** and self-improvement
+- ♟️ Enjoy playing **chess** and **reading books** to stay focused and think clearly
 - 📫 Reach me at **mr.ahtashamulhaq@gmail.com**
-- ⚡ Fun fact: **I turn coffee into intelligent code! ☕🤖**
 
-<br clear="right"/>
+## 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mr-ahtasham-ul-haq/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</a>
+<img width="20" />
+<a href="https://leetcode.com/u/mr-ahtashamulhaq/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="52" />
+</a>
+<img width="20" />
+<a href="mailto:mr.ahtashamulhaq@gmail.com" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</a>
+<img width="20" />
+<a href="https://www.ahtashamulhaq.site/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="52" height="40" alt="portfolio website" />
+</a>
+
+</div>
 
 ---
 
@@ -23,33 +48,38 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="40" alt="DSA" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+<img src="https://www.cursor.com/brand/icon.svg" height="40" alt="Cursor IDE" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+<img src="https://img.icons8.com/color/40/000000/slack-new.png" height="40" alt="Slack" />
+<img width="12" />
+<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" height="40" alt="Discord" />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="ChatGPT" />
+<img width="12" />
+<img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" height="40" alt="GitHub Copilot" />
+<img width="12" />
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" height="40" alt="GeeksforGeeks" />
+<img width="12" />
+
+<img src="https://replit.com/public/images/logo-small.png" height="40" alt="Replit" />
+<img width="12" />
+<img src="https://claude.ai/favicon.ico" height="40" alt="Claude" />
+<img width="12" />
+<img src="https://desktop.github.com/images/desktop-icon.svg" height="40" alt="GitHub Desktop" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion" />
 
 </div>
 
@@ -89,7 +119,7 @@
 </a>
 <img width="20" />
 <a href="https://www.ahtashamulhaq.site/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="portfolio" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/globe.svg" width="52" height="40" alt="portfolio website" style="filter: invert(1);" />
 </a>
 
 </div>
