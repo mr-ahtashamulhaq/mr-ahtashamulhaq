@@ -33,9 +33,9 @@ me.say_hi()
 <div align="center">
 
 ### Skills
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,mysql&perline=6" />
-<img src="https://skillicons.dev/icons?i=aws,figma,netlify,vercel,heroku,replit&perline=6" />
-<img src="https://skillicons.dev/icons?i=docker,npm,discord,stackoverflow,notion,supabase&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,mysql" /> <br>
+<img src="https://skillicons.dev/icons?i=aws,figma,netlify,vercel,heroku,replit" /><br>
+<img src="https://skillicons.dev/icons?i=docker,npm,discord,stackoverflow,notion,supabase" />
 
 </div>
 
