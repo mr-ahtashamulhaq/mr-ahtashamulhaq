@@ -32,14 +32,10 @@ me.say_hi()
 
 <div align="center">
 
-### Languages & Tools
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,figma&perline=6" />
-
-### Cloud & Platforms  
-<img src="https://skillicons.dev/icons?i=aws,azure,netlify,vercel,heroku,replit&perline=6" />
-
-### AI & Development
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,postman,npm,discord&perline=6" />
+### Skills
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,mysql&perline=6" />
+<img src="https://skillicons.dev/icons?i=aws,figma,netlify,vercel,heroku,replit&perline=6" />
+<img src="https://skillicons.dev/icons?i=docker,npm,discord,stackoverflow,notion,supabase&perline=6" />
 
 </div>
 
