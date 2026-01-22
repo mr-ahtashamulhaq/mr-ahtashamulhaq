@@ -80,7 +80,7 @@
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ahtashamulhaq&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=mr-ahtashamulhaq&theme=tokyonight&hide_border=true" width="100%" />
 
 </div>
 
