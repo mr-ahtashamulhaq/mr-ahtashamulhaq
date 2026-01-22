@@ -70,33 +70,6 @@ me.say_hi()
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-ahtashamulhaq&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
-
-</div>
-
----
-
-## 🚀 Current Focus
-
-```yaml
-learning:
-  - Deep Learning architectures
-  - Cloud-native development
-  - Advanced algorithms
-
-building:
-  - AI-powered applications
-  - Solving complex DSA problems
-  - Personal portfolio projects
-
-improving:
-  - System design knowledge
-  - Code optimization techniques
-  - Open source contributions
-```
-
 ---
 
 ## 📫 Let's Connect
