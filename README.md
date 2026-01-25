@@ -66,7 +66,7 @@ me.say_hi()
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats-omega-six.vercel.app/?user=mr-ahtashamulhaq&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats-omega-six.vercel.app/?user=mr-ahtashamulhaq&theme=tokyonight&hide_border=true" width="80%" />
 
 </div>
 
