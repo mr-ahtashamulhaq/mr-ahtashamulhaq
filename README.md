@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Ahtasham Ul Haq
+# I'm Ahtasham Ul Haq
 
 <div align="center">
   
