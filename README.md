@@ -140,11 +140,13 @@ Beyond building, I teach DSA and coding through bootcamps and mentoring sessions
 ---
 ## 📈 Competitive Programming
 <div align="center">
+
 | Platform | Solved | Profile |
 |----------|--------|---------|
-| 💻 **LeetCode** | 150+ | [<a href="https://leetcode.com/u/mr-ahtashamulhaq/" target="_blank">@mr-ahtashamulhaq</a>](https://leetcode.com/u/mr-ahtashamulhaq/) |
-| 🔶 **GeeksforGeeks** | 150+ | [<a href="https://www.geeksforgeeks.org/profile/ahtashamulhaq" target="_blank">@mr-ahtashamulhaq</a>](https://www.geeksforgeeks.org/profile/ahtashamulhaq) |
-| 🎯 **Total Problems** | **300+** | [<a href="https://codolio.com/profile/mr.ahtashamulhaq" target="_blank">All Profiles</a>](https://codolio.com/profile/mr.ahtashamulhaq) |
+| 💻 **LeetCode** | 150+ | <a href="https://leetcode.com/u/mr-ahtashamulhaq/" target="_blank">@mr-ahtashamulhaq</a> |
+| 🔶 **GeeksforGeeks** | 150+ | <a href="https://www.geeksforgeeks.org/profile/ahtashamulhaq" target="_blank">@mr-ahtashamulhaq</a> |
+| 🎯 **Total Problems** | **300+** | <a href="https://codolio.com/profile/mr.ahtashamulhaq" target="_blank">All Profiles</a> |
+
 </div>
 
 ---
@@ -162,15 +164,15 @@ Beyond building, I teach DSA and coding through bootcamps and mentoring sessions
 
 <a href="https://www.linkedin.com/in/mr-ahtasham-ul-haq/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/mr-ahtashamulhaq/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="mailto:mr.ahtashamulhaq@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.ahtashamulhaq.site/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
