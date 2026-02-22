@@ -132,7 +132,7 @@ Beyond building, I teach DSA and coding through bootcamps and mentoring sessions
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats-omega-six.vercel.app/?user=mr-ahtashamulhaq&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://github-readme-streak-stats-ebon-two.vercel.app/?user=mr-ahtashamulhaq&theme=tokyonight&hide_border=true" width="70%" />
 
 
 </div>
